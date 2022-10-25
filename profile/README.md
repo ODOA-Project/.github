@@ -14,7 +14,7 @@
 
 <br>
 
-## 현황
+## 티어 보드
 **김민규**
 <br>
 <a href="https://opgc.me/#/users/kyu1204" target="_blank"><img src="https://api.opgc.me/githubs/users/kyu1204/tag/?theme=basic" /></a>
