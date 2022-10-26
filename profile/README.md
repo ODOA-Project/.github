@@ -1,6 +1,10 @@
 # ODOA 🔥
 ### One Day One Algorithm
 > OPGC 챌린저를 향해 🚀
+<br>
+
+![itcloude](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
 
 <br>
 
@@ -22,5 +26,3 @@
 **임경미**  |  <a href="https://opgc.me/#/users/lim-km" target="_blank"><img src="https://api.opgc.me/githubs/users/lim-km/tag/?theme=basic" /></a>
 
 <br>
-
-![itcloude](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
